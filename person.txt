@@ -1,0 +1,6 @@
+guoyazai male vicemonitor class301 250 1
+chuhua female professor xidian 2001 2
+fanlei male viceprofessor xidian 2002 0
+zacker male ceo facebook 3002 0
+leijun male ceo xiaomi 3003 0
+guoyachong nan monitor xidian 239 0
