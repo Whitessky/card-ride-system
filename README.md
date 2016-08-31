@@ -1,5 +1,7 @@
 # -
 可以用于校园一卡通乘车的管理
+说明：student.txt teacher.txt limit.txt分别用于存储三种卡的信息，person.txt用于存储持卡人的信息，bus.txt用于存储车辆的信息，busactual.txt用于存储车辆的运行信息。
+以下为基本要求： 
 
 基本要求：
 6次上机完成一个完整的简化系统：一卡通乘车系统。
